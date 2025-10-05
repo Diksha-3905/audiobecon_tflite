@@ -1,30 +1,31 @@
-# AudioBecon TFLite  
+# AudioBecon TFLite
 
-> Real-time **audio beacon detection** powered by **TensorFlow Lite** & **Flutter**, built to run **everywhere** – Android, iOS, Web, Windows, macOS, and Linux.  
-
----
-
-## 🌟 About the Project  
-**AudioBecon TFLite** is a cross-platform application that uses **on-device machine learning** to detect and process audio signals. By integrating **TensorFlow Lite models** with a **Flutter frontend** and native code (C++, Swift), the project provides a lightweight, fast, and privacy-friendly way to process sounds without depending on the cloud.  
+> Real-time **audio beacon detection** powered by **TensorFlow Lite** & **Flutter**, built to run **everywhere** – Android, iOS, Web, Windows, macOS, and Linux.
 
 ---
 
-## ✨ Features  
-- 🔊 **Audio Beacon Detection** – Identify and respond to specific audio signals.  
-- 📱 **Cross-Platform** – Works on Android, iOS, Web, Windows, macOS, and Linux.  
-- ⚡ **On-Device Inference** – Powered by TensorFlow Lite for fast & private audio ML.  
-- 🖥️ **Flutter UI** – Beautiful and portable interface.  
-- 🛠️ **Native Performance** – C++ and Swift layers for optimized audio processing.  
+## 🌟 About the Project
+**AudioBecon TFLite** is a cross-platform application that uses **on-device machine learning** to detect and process audio signals. By integrating **TensorFlow Lite models** with a **Flutter frontend** and native code (C++, Swift), the project provides a lightweight, fast, and privacy-friendly way to process sounds without depending on the cloud.
 
 ---
 
-## 🚀 Getting Started  
+## ✨ Features
+- 🔊 **Audio Beacon Detection** – Identify and respond to specific audio signals.
+- 📱 **Cross-Platform** – Works on Android, iOS, Web, Windows, macOS, and Linux.
+- ⚡ **Real-Time Processing** – Sound detection under 1 second (500ms classification interval).
+- ⚡ **On-Device Inference** – Powered by TensorFlow Lite for fast & private audio ML.
+- 🖥️ **Flutter UI** – Beautiful and portable interface.
+- 🛠️ **Native Performance** – C++ and Swift layers for optimized audio processing.
 
-### Prerequisites  
-- [Flutter](https://flutter.dev/docs/get-started/install) installed.  
-- Basic understanding of Dart and TensorFlow Lite.  
+---
 
-### Installation  
+## 🚀 Getting Started
+
+### Prerequisites
+- [Flutter](https://flutter.dev/docs/get-started/install) installed.
+- Basic understanding of Dart and TensorFlow Lite.
+
+### Installation
 ```bash
 # Clone the repository
 git clone https://github.com/Diksha-3905/audiobecon_tflite.git
@@ -41,15 +42,15 @@ flutter run
 📂 Project Structure
 
 audiobecon_tflite/
-│── android/       # Android specific code  
-│── ios/           # iOS specific code  
-│── lib/           # Flutter frontend  
-│── linux/         # Linux support  
-│── macos/         # macOS support  
-│── web/           # Web build support  
-│── windows/       # Windows support  
-│── assets/        # Audio models / sample data  
-│── test/          # Unit tests  
+│── android/       # Android specific code
+│── ios/           # iOS specific code
+│── lib/           # Flutter frontend
+│── linux/         # Linux support
+│── macos/         # macOS support
+│── web/           # Web build support
+│── windows/       # Windows support
+│── assets/        # Audio models / sample data
+│── test/          # Unit tests
 
 🎯 Use Cases
 
