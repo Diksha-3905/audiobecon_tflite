@@ -73,6 +73,14 @@ This project is licensed under the MIT License – feel free to use and modify.
 
 ✨ Made with Flutter & TensorFlow Lite to bring sound intelligence to all devices.
 ## 📊 Performance & Alternatives
+## 🔥 Recent Updates
+
+### Performance Optimization Exploration (October 2025)
+
+We've completed a comprehensive exploration of alternative inference frameworks! Check out:
+- 📊 [Issue #2 Resolution Summary](ISSUE_2_RESOLUTION.md) - Quick overview
+- 📚 [Complete Documentation](docs/) - Detailed guides and benchmarks
+
 
 We've conducted comprehensive research on inference framework alternatives to ensure optimal performance:
 
